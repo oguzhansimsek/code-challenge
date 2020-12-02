@@ -1,0 +1,33 @@
+.cardWrapper {
+  margin-bottom: 16px;
+}
+
+.card {
+  min-height: 400px;
+}
+
+.cardBody {
+  margin: 0;
+  padding: 8px;
+}
+
+.cardTitle {
+  font-size: 18px;
+  color: var(--text-color);
+}
+
+.cardSubTitle {
+  fontsize: 14px;
+  color: var(--span-color);
+}
+.badge {
+  margin-right: 4px;
+  cursor: pointer;
+  color: var(--white);
+}
+
+.badgeText {
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--white);
+}
